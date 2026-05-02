@@ -1,2 +1,3 @@
 # warranty-service
-Author - Lingaraj badami(Namith)
+Author - Lingaraj badami
+Full Stack app -product warranty and service 
